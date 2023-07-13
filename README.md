@@ -1,4 +1,4 @@
-[![Linkedin: Zane Hill](https://img.shields.io/badge/-Zane-Hill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zane-hill-9a19a0226/)](https://www.linkedin.com/in/zane-hill-9a19a0226/)
+[![Linkedin: Zane Hill](https://img.shields.io/badge/-ZaneHill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zane-hill-9a19a0226/)](https://www.linkedin.com/in/zane-hill-9a19a0226/)
 
 ### Welcome
 My name is Zane Hill and I program Videogames for fun.
