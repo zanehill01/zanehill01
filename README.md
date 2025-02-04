@@ -1,7 +1,7 @@
 [![Linkedin: Zane Hill](https://img.shields.io/badge/-ZaneHill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zane-hill-9a19a0226/)](https://www.linkedin.com/in/zane-hill-9a19a0226/)
 
 ### Welcome
-My name is Zane Hill and I program Videogames for fun.
+My name is Zane and I like cyber security and videogame code stuff
 
 <a href="https://github.com/zanehill01/zanehill01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanehill01&theme=shadow_green&show_icons=true&count_private=true&size_weight=0&count_weight=1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=donut&exclude_repo=Java-RPS,dataconversion-private,github-readme-stats" />
